@@ -12,7 +12,7 @@
 - 🔭 Working on modern web applications  
 - 🌱 Learning new technologies every day  
 - 💡 Passionate about coding and clean UI  
-- 📫 Reach me: your@email.com  
+- 📫 Reach me: sheikhmuzammil676@gmail.com  
 - ⚡ Fun fact: I love solving problems
 
 ---
