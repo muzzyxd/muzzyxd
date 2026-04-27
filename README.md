@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Sheikh Muzammil</h1>
 <h3 align="center">Full Stack Developer | Frontend & Backend Engineer</h3>
 
 <p align="center">
@@ -51,8 +51,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=muzzyxd&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muzzyxd&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
@@ -81,4 +81,3 @@
 ---
 
 <p align="center">⭐ Thanks for visiting my profile ⭐</p>
-```
