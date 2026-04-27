@@ -1,21 +1,26 @@
-# 👋 Hi, I'm Sheikh Muzammil  
-💻 Asp.Net | Laravel | C# | Frontend Developer  
-🌱 Currently learning: Flutter  
-📍 Based in Karachi, Pakistan  
+```md
+<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h3 align="center">Full Stack Developer | Frontend & Backend Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;Full+Stack+Developer;Frontend+%7C+Backend+%7C+Database;Always+Learning+New+Tech" />
+</p>
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m working on Full-stack web apps 
-- 👯 I’m looking to collaborate on open-source projects 
-- 💬 Ask me about ASP.NET, Laravel, and AngularJs 
-- 📫 Reach me at: sheikhmuzammil676@gmail.com
+## 👨‍💻 About Me
+
+- 🔭 Working on modern web applications  
+- 🌱 Learning new technologies every day  
+- 💡 Passionate about coding and clean UI  
+- 📫 Reach me: your@email.com  
+- ⚡ Fun fact: I love solving problems
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Skills
 
-### Frontend
+### 🎨 Frontend
 <p>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -24,7 +29,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### Backend
+### ⚙ Backend
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -35,14 +40,46 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
-### Database
+### 🗄 Database
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p> 
+</p>
 
 ---
 
-## 🌐 Connect with Me
-[LinkedIn](www.linkedin.com/in/muhammad-muzammil-b83749327) | [Portfolio](https://muzammilportfoliodev.my.canva.site/)
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🌐 Portfolio Website  
+- 🛒 E-Commerce Platform  
+- 📚 School Management System  
+- 📱 Flutter Mobile App  
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
+<a href="https://github.com/YOURUSERNAME"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+</p>
+
+---
+
+<p align="center">⭐ Thanks for visiting my profile ⭐</p>
+```
