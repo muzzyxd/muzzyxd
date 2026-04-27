@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Your Name</h1>
 <h3 align="center">Full Stack Developer | Frontend & Backend Engineer</h3>
 
