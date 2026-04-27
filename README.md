@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzzyxd&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@
 
 - 🌐 Portfolio Website  
 - 🛒 E-Commerce Platform  
-- 📚 School Management System  
+- 📚 Employee Management System  
 - 📱 Flutter Mobile App  
 
 ---
